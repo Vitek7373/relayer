@@ -1,13 +1,13 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "stride",
-    "chain-id": "STRIDE-TESTNET-2",
-    "rpc-addr": "http://62.109.26.5:26657",
-    "account-prefix": "stride",
+    "key": "gaia",
+    "chain-id": "GAIA",
+    "rpc-addr": "http://127.0.0.1:26657",
+    "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
-    "gas-prices": "0.001ustrd",
+    "gas-prices": "0.001uatom",
     "gas": 200000,
     "timeout": "20s",
     "trusting-period": "8h",
